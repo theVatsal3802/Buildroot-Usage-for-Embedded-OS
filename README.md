@@ -1,8 +1,8 @@
 # Overview of the steps to be followed for modifying and compiling buildroot for Raspberry Pi 3
 
 By:
-- Vatsal Adhiya (24VS60R26)
-- Himanshu Likhar (24CS60R43)
+- [Vatsal Adhiya](https://github.com/theVatsal3802) (24VS60R26)
+- [Himanshu Likhar](https://github.com/himanshulikhar55) (24CS60R43)
 
 ## Steps to be followed:
 - Download the tarball from [Buildroot Website](https://buildroot.org).
