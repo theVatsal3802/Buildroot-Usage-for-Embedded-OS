@@ -5,10 +5,13 @@ By:
 - [Himanshu Likhar](https://github.com/himanshulikhar55) (24CS60R43)
 
 ## Steps to be followed:
-- Download the tarball from [Buildroot Website](https://buildroot.org).
+
+<b>(Note: This README file contains video links for the demo of the steps. In order to view the videos, click [here](https://github.com/theVatsal3802/Buildroot-Usage-for-Embedded-OS/blob/main/README.md) 😁)</b>
+
+- Download the tarball from [Buildroot Website](https://buildroot.org/download.html#:~:text=buildroot%2D2024.02.6.tar.xz).
 - Unzip the tarball using the following command:
 ```
-tar -xf buildroot-2024.02.6.tar.gz
+tar -xf buildroot-2024.02.6.tar.xz
 ```
 - Open the unzipped folder in the terminal and run the following command as shown below and copy the name for the configuration for `raspberry pi 3`:
 ```
