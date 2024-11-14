@@ -13,6 +13,7 @@ By:
 - Unzip the tarball using the following command:
 
 ```bash
+# Make sure to enter the correct version number of the zip file in the command
 tar -xf buildroot-2024.02.6.tar.xz
 ```
 
